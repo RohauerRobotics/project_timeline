@@ -5,3 +5,10 @@ This was my first real Python project. I stopped working on it around Novemeber 
 <p align="center">
   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/tk_game/first_game_screen.JPG" align="centre">
 </p>
+Some of the features that I remember finding fascinating at the time were: 
+**1** The ability to create and import custom files (I made a second file called sause.py that held libraries for each decision that was made)
+Making a class that self initialized
+Being able to index libraries for making decisions
+Creating a generalized TKinter loop that built and destroyed windows based on decisions set in the library
+
+I made this program in late 2018, which both feels like yesterday and a thousand years ago. This was before I chose to go to school for mechanical engineering and before the explosion of large language models and I’m grateful that I had the opportunity to experience in a small way what programming felt like before the machines could write everything for you. That being said this game was left unfinished and suboptimal, but that’s okay for a first game. 
