@@ -5,8 +5,8 @@ This was my first real Python project. I stopped working on it around Novemeber 
 <p align="center">
   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/tk_game/first_game_screen.JPG" align="centre">
 </p>
-Some of the features that I remember finding fascinating at the time were: 
-**1** The ability to create and import custom files (I made a second file called sause.py that held libraries for each decision that was made)
+Some of the features that I remember finding fascinating at the time were:  
+**1** The ability to create and import custom files (I made a second file called sause.py that held libraries for each decision that was made)  
 Making a class that self initialized
 Being able to index libraries for making decisions
 Creating a generalized TKinter loop that built and destroyed windows based on decisions set in the library
