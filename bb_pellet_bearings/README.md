@@ -16,17 +16,25 @@ This project was meaningful to me since it was the first time that I had to iter
 
 Since I was unable to find any of my original 3D printed bearings, I decided to do a redesign and fix the issues that were in the original version.
 
-3D Printed Housing for BB Pellet Bearings - Redesign
+**3D Printed Housing for BB Pellet Bearings - Redesign**
 
-Software: Onshape
-Time: July 8th, 2025 (~30 mins to 1 hr)
+**Software:** Onshape
+**Time:** July 8th, 2025 (~30 mins to 1 hr)
 
 My redesign uses a print-in-place assembly method, where the ball bearings are dropped into place when the printer is paused at the appropriate layer height. This fixes a major issue of the original design where I would have to shove the bb pellets into an indent on the side of the printed casing leading to a suboptimal surface for the balls to roll along. 
 
-
+ <p align="center">
+   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/bb_pellet_bearings/2025%20Redesign%20-%20Section%20View.JPG" align="centre">
+ </p>
 
 The next largest issue that my old design had was that it tried to pack the balls right next to one another with no spacing in between. This isn’t how professional bearings are designed since the ball bearings slide against one another in this configuration leading to wear and inefficiency. To solve this I simply filled in the space between the balls with a kind of curved macaroni type of shape, which spaces the balls away from one another without interfering in the rolling motion. 
 
-
+ <p align="center">
+   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/bb_pellet_bearings/2025%20Redesign.JPG" align="centre">
+ </p>
 
 It feels good to be able to quickly address some of the major issues that I had spent probably a dozen hours on about six years ago in about thirty minutes with the skills and knowledge that I have today. And while the print-in-place bearings are far from optimal they’re definitely better than the ones I made back then. 
+
+ <p align="center">
+   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/bb_pellet_bearings/2025%20Reprint.jpg" align="centre">
+ </p>
