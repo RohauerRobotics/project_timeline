@@ -1,8 +1,8 @@
 **Spring Winding Jig**
 
-Software: Fusion 360
+**Software:** Fusion 360
 
-Time: Around November 2019
+**Time:** Around November 2019
 
  <p align="center">
    <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/spring_winding_jig/Winding%20Block%20CAD%20Design.JPG" align="centre">
