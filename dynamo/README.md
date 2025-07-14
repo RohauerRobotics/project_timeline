@@ -9,7 +9,7 @@ The dynamo project was another of my early projects that went through multiple i
 **Design 1 - Uninformed Optimism** 
 
  <p align="center">
-   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/dynamo/CAD%20Design%201%20-%20Whole.JPG" align="centre" width="50%" height="50%">
+   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/dynamo/CAD%20Design%201%20-%20Whole.JPG" align="centre" width="35%" height="35%">
  </p>
 
 My first design was based on no known theoretical knowledge about electronics or magnetism. It used a set of cylindrical rotors, which were composed of thinly wound bare wire around a 3D printed core of plastic, these rotors were placed with the central axis collinear to the long side of a set of rectangular permanent neodymium magnets. This design had no hope of actually working since there was no insulation of the wires, even if there was insulation the direction of the magnetic field from them would’ve been perpendicular to the direction of the permanent magnet’s field, and finally the bare wire was only wound once around the core so even in the optimal case the field strength would’ve been weak.
