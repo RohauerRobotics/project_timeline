@@ -4,7 +4,6 @@
 
 
 **Software:** Fusion 360
-
 **Time:** February thru April 2020
 
 <p align="center">
