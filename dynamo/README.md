@@ -1,5 +1,5 @@
 <div align="center">
-  **3D Printed Dynamo Project**
+ <b>3D Printed Dynamo Project</b>
 </div>
 
 **Software:** Fusion 360
