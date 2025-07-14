@@ -1,4 +1,6 @@
-**3D Printed Dynamo Project**
+<div align="center">
+  **3D Printed Dynamo Project**
+</div>
 
 **Software:** Fusion 360
 
