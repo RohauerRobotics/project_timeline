@@ -8,3 +8,5 @@ First Time Iterating Hardware: [3D Printed BB Pellet Bearing](https://github.com
 More Complex Assembly: [Spring Winding Jig](https://github.com/RohauerRobotics/project_timeline/tree/main/spring_winding_jig) - November 2019
 
 Iteration of Complex Assembly: [Dynamo (and Brushed Motor Attempt)](https://github.com/RohauerRobotics/project_timeline/tree/main/dynamo) - November thru December 2019
+
+First Club Project: [Arm Mounted Paper Airplane Launcher](https://github.com/RohauerRobotics/project_timeline/tree/main/arm_mounted_paper_airplane_launcher) - February thru April 2020
