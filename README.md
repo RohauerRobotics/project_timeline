@@ -11,4 +11,4 @@ Iteration of Complex Assembly: [Dynamo (and Brushed Motor Attempt)](https://gith
 
 First Club Project: [Arm Mounted Paper Airplane Launcher](https://github.com/RohauerRobotics/project_timeline/tree/main/arm_mounted_paper_airplane_launcher) - February thru April 2020
 
-First Use of a Radio Transceiver in a Project: [Arduino RC Car](https://github.com/RohauerRobotics/project_timeline/tree/main/arduino_rc_car)
+First Use of a Radio Transceiver in a Project: [Arduino RC Car](https://github.com/RohauerRobotics/project_timeline/tree/main/arduino_rc_car) - July 2020
