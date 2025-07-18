@@ -13,4 +13,4 @@ First Club Project: [Arm Mounted Paper Airplane Launcher](https://github.com/Roh
 
 First Use of a Radio Transceiver in a Project: [Arduino RC Car](https://github.com/RohauerRobotics/project_timeline/tree/main/arduino_rc_car) - July 2020
 
-Useful Storage Device: [Jumper Wire Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/jumper_wire_holder)
+Useful Storage Device: [Jumper Wire Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/jumper_wire_holder) - October 2020
