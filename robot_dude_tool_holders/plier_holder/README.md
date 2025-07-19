@@ -1,11 +1,10 @@
 <div align="center">
- <b>Wall Mounted “Robot Dude” Digital Caliper Holder</b>
+ <b>Wall Mounted “Robot Dude” Pliers Holder</b>
 </div>
 
 
 **Software:** Fusion 360   
 **Time:** August 2021
 
-
-This is another of the “robot dude” tool holders that I designed. This one holds a digital caliper.
+Another “robot dude” tool holder I designed, this one holds both needle nose and standard pliers well. 
 
