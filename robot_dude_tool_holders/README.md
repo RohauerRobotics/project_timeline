@@ -11,10 +11,7 @@ This was a set of robot inspired tool holders I completed throughout 2021 that w
 
 All of these were wall mounted, using philips screws to be fastened to drywall. If I were to pursue commercialization today I would make versions of these that could be fastened to a wall with sticky tape so they could be removed from the wall without needing plaster to repair it afterwards (make them attractive to people who live in rented apartments). Below are the five different designs that I made for common maker tools and stationary. 
 
-
-<div align="center">
- [Plier Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/robot_dude_tool_holders/plier_holder)
-</div>
+[Plier Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/robot_dude_tool_holders/plier_holder)
 
 <p align="center">
  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/robot_dude_tool_holders/plier_holder/Real%20Image%201.JPG" align="centre" width="35%" height="35%">
