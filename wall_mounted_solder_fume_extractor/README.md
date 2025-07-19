@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/jumper_wire_holder/Fusion%20CAD%20Design.JPG" align="centre" width="35%" height="35%">
   <p align="center">
-   Image Label
+   <sub>Image Label</sub>
   </p>
 </p>
 
