@@ -19,7 +19,12 @@ All of these were wall mounted, using philips screws to be fastened to drywall. 
  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/robot_dude_tool_holders/plier_holder/Real%20Image%201.JPG" align="centre" width="25%" height="25%">
 </p>
 
-Caliper Holder
+[Caliper Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/robot_dude_tool_holders/caliper_holder)
+
+<p align="center">
+ <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/robot_dude_tool_holders/caliper_holder/Real%20Image%201.JPG" align="centre" width="25%" height="25%">
+</p>
+
 
 Wire Snipper Holder
 
