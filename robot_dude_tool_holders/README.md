@@ -13,7 +13,7 @@ All of these were wall mounted, using philips screws to be fastened to drywall. 
 
 
 <div align="center">
- <b>[Plier Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/robot_dude_tool_holders/plier_holder)</b>
+ [Plier Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/robot_dude_tool_holders/plier_holder)
 </div>
 
 <p align="center">
