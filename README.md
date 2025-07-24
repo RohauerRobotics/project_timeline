@@ -18,3 +18,5 @@ Useful Storage Device: [Jumper Wire Holder](https://github.com/RohauerRobotics/p
 Set of 5 Unique 3D Printed Tool Holders: ["Robot Dude" Tool Holders](https://github.com/RohauerRobotics/project_timeline/tree/main/robot_dude_tool_holders) - Jan thru August 2021
 
 A Useful Product Design (focused around health): [Wall Mounted Solder Fume Extractor](https://github.com/RohauerRobotics/project_timeline/tree/main/wall_mounted_solder_fume_extractor) - August 2021
+
+Peaceful Toy/Decor: [Wall Mounted Yin and Yang Toy/Decoration](https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_yin_yang_toy/README.md) - September 2021
