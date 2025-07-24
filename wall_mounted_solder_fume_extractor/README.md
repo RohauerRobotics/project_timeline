@@ -45,7 +45,7 @@ This is a collapsable wall mounted solder fume extractor that I designed in late
 The body is composed of four 3D printed arms and a fan housing. Each of the arms is held in place by a 3D printed screw clamp, in which a machine screw is embedded (secured with super glue). These clamps tighten around the preceding arm or mount such that it deforms slightly and immobilizes the connecting arm via normal force and friction.
 
 <p align="center">
-  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_solder_fume_extractor/Solder%20Fume%20Arm%20Joint%20Labeled%20(1).jpg" align="center" width="35%" height="35%">
+  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_solder_fume_extractor/Solder%20Fume%20Arm%20Joint%20Labeled%20(1).jpg" align="center" width="55%" height="55%">
   <p align="center">
    <sub>Fusion 360 CAD cross section view of clamping mechanism.</sub>
   </p>
@@ -54,7 +54,7 @@ The body is composed of four 3D printed arms and a fan housing. Each of the arms
 The last arm in the series connects to a swivel housing which has a dovetail-like joint which can slide into and out of a wall mount. This allows for easy installation and removal of the whole system.
 
 <p align="center">
-  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_solder_fume_extractor/Wall%20Mount.JPG" align="center" width="35%" height="35%">
+  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_solder_fume_extractor/Wall%20Mount.JPG" align="center" width="55%" height="55%">
   <p align="center">
    <sub>CAD explanation of easy install mechanism.</sub>
   </p>
