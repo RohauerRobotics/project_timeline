@@ -98,3 +98,20 @@ Secondly, I would reduce the thickness of one of the sides of the base arm joint
 
 Another change I would make is at the fan housing. The current configuration allows for the fan and filter housing to swivel back and forth. In a future edition I would either have a mount that would allow tilt first then rotation, or just use a ball joint to allow the fan to face different positions with less hassle.
 
+<p align="center">
+  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_solder_fume_extractor/Change%20to%20Fume%20Extractor%20Mount.jpg" align="center" width="35%" height="35%">
+  <p align="center">
+   <sub>Image depicting change to fume extractor mount.</sub>
+  </p>
+</p>
+
+Additionally, I would reassess the arm configuration. The current arm series allows for the system to be collapsed, but I think another configuration might allow for the total space from the wall to be reduced further (more brainstorming required).
+
+Below is a table of the total and unit price breakdown for the wall mounted solder fume extractor:
+
+<p align="center">
+  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_solder_fume_extractor/Price%20Breakdown.JPG" align="center" width="35%" height="35%">
+  <p align="center">
+   <sub>Total and unit price breakdown.</sub>
+  </p>
+</p>
