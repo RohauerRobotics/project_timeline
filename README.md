@@ -16,3 +16,5 @@ First Use of a Radio Transceiver in a Project: [Arduino RC Car](https://github.c
 Useful Storage Device: [Jumper Wire Holder](https://github.com/RohauerRobotics/project_timeline/tree/main/jumper_wire_holder) - October 2020
 
 Set of 5 Unique 3D Printed Tool Holders: ["Robot Dude" Tool Holders](https://github.com/RohauerRobotics/project_timeline/tree/main/robot_dude_tool_holders) - Jan thru August 2021
+
+A Useful Product Design (focused around health): [Wall Mounted Solder Fume Extractor](https://github.com/RohauerRobotics/project_timeline/tree/main/wall_mounted_solder_fume_extractor) - August 2021
