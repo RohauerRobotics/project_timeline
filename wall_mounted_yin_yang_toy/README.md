@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_yin_yang_toy/images/Yin%20Yang%20Labeled%20Cross%20Section.jpg" align="center" width="55%" height="55%">
+  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/wall_mounted_yin_yang_toy/images/Yin%20Yang%20Labeled%20Cross%20Section.jpg" align="center" width="45%" height="45%">
   <p align="center">
    <sub>Cross sectional view of wall mounted Yin Yang toy/decoration.</sub>
   </p>
