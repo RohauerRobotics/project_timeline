@@ -22,6 +22,13 @@
 This is another artistic project that I worked on intermittently throughout mid 2021. The concept is to display the silhouette of a person with their brain replaced with gears. I thought that this was an interesting kind of art piece which could have some market potential. I ended up making two different versions. The first one is a hand actuated device that relies on the user to make the gears spin by moving a spindle on the back side of the device. The second version’s gears are actuated by a small dc motor and sits above a flat backdrop for contrast.
 
 <p align="center">
+  <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/thinking_man_decor/images/Handheld%20-%20Real%20Image.JPG" align="center" width="35%" height="35%">
+  <p align="center">
+   <sub>Image of finished handheld version.</sub>
+  </p>
+</p>
+
+<p align="center">
   <img src="https://github.com/RohauerRobotics/project_timeline/blob/main/thinking_man_decor/images/Motorized%20CAD%20-%20Front.JPG" align="center" width="35%" height="35%">
   <p align="center">
    <sub>Front CAD image of motorized thinking man.</sub>
